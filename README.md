@@ -1,4 +1,4 @@
-git clone https://github.com/GithubMOHAMMA/MOHAMMADE
+git clone git@github.com:GithubMOHAMMA/MOHAMMADE.git
 
 ls
 
